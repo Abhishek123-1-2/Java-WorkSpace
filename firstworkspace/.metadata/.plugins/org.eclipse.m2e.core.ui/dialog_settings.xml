@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="D:\Java Demos\firstworkspace\InheritanceDemo\src\Laptop.java"/>
+			<item value="D:\Java Demos\firstworkspace\HqlDemo\src\main\java\in\mindcraft\HqlDemo\MobilePhone.java"/>
+			<item value="D:\Java Demos\firstworkspace\HibernateInhDemo\src\main\java\in\mindcraft\HibernateInhDemo\Account.java"/>
+			<item value="D:\Java Demos\firstworkspace\Just-Practice\src\main\java\in\mindcraft\Just_Practice\Tester.java"/>
+			<item value="D:\Java Demos\firstworkspace\JavaProject-Case_Study\src\BankSystem.java"/>
+			<item value="D:\Java Demos\firstworkspace\Add matrices\src\Tester.java"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="in.mindcraft.HibernateFetch"/>
+			<item value="in.mindcraft.HibernateDemo6"/>
+			<item value="in.mindcraft.HibernateDemo5"/>
+			<item value="in.mindcraft.HibernateDemo4"/>
+			<item value="in.mindcraft.HibernateDemo3"/>
+			<item value="in.mindcraft.HibernateDemo2"/>
+		</list>
+		<list key="groupId">
+			<item value="in.mindcraft"/>
+		</list>
+		<list key="artifactId">
+			<item value="HibernateFetch"/>
+			<item value="HibernateDemo6"/>
+			<item value="HibernateDemo5"/>
+			<item value="HibernateDemo4"/>
+			<item value="HibernateDemo3"/>
+			<item value="HibernateDemo2"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.wizards.CustomArchetypeDialog">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>
